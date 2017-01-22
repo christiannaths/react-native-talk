@@ -16,3 +16,6 @@
 - Adding 3rd party libs
 - Worthwhile plugins/libraries
 - deployment
+- Gotchas/snags/roadblocks
+- Further reading/resources
+- Acknowledgements
